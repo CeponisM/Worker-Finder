@@ -1,2 +1,2 @@
 # Worker-Finder
-A worker finder web application for Software Systems Capstone Project
+A web application tool to find skilled workers for professional services made for the Software Systems Capstone Project class.
